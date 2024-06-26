@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, Im Qetrox 👋
 
-<!--
-**Qetrox/Qetrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=qetrox&show_icons=true&theme=onedark" alt="GitHub Readme Stats Themes" width="525px"/></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qetrox&theme=onedark&layout=compact" width="400px"/></img>
 
-Here are some ideas to get you started:
+> [!NOTE]\
+> I code for fun most of the time, you'll also find some of my school projects here.
+<details>
+<summary>Some of my websites 👀</summary>
+  
+- www.streameroptions.com
+- www.qlient.net
+- www.qetrox.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
