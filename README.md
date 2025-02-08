@@ -8,7 +8,7 @@
 <details>
 <summary>Some of my websites 👀</summary>
   
-- www.streameroptions.com
+- www.winstreak.ws
 - www.qlient.net
 - www.qetrox.com
 
